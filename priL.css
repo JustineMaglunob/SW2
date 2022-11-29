@@ -1,0 +1,20 @@
+h1{
+ 	border-style:groove;
+ 	border-width:10px;
+ 	border-top-color: springgreen;
+ 	border-bottom-color: springgreen;
+ 	border-right-color:springgreen;
+ 	border-left-color: springgreen;
+ 	
+ 	
+ }
+ body{
+ 	border-color:darkkhaki;
+ 	border-style:groove;
+ 	border-width:20px;
+ 	padding-top: 5px;
+ 	padding-bottom: 5px;
+ 	padding-right: 10px;
+ 	padding-left: 10px;
+
+ }
